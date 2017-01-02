@@ -35,6 +35,13 @@ Download `ng-blueimp-gallery.js` file from this repo and add it at the bottom of
 <script src="js/ng-blueimp-gallery.js"></script>
 ```
 
+using bower or npm
+
+```
+bower install --save ng-blueimp-gallery
+npm install --save ng-blueimp-gallery
+```
+
 
 Add `ui.blueimp.gallery` module to your app's dependencies.
 

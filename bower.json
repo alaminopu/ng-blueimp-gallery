@@ -1,0 +1,25 @@
+{
+  "name": "ng-blueimp-gallery",
+  "description": "Angular Directive for Jquery blueimp-gallery",
+  "main": "./ng-blueimp-gallery.js",
+  "authors": [
+    "Md. Al-Amin <alamin.opu10@gmail.com>"
+  ],
+  "license": "GNU GPL V3",
+  "keywords": [
+    "angular",
+    "gallery",
+    "ng",
+    "gallery",
+    "blueimp",
+    "gallery"
+  ],
+  "homepage": "https://github.com/alaminopu/ng-blueimp-gallery",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
