@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="demo">
+<head>
+  <meta charset="utf-8">
+  <title>blueimp Gallery AngularJS Directive</title>
+
+  <link rel="stylesheet" href="../node_modules/blueimp-gallery/css/blueimp-gallery-indicator.css">
+  <link rel="stylesheet" href="../node_modules/blueimp-gallery/css/blueimp-gallery-video.css">
+  <link rel="stylesheet" href="../node_modules/blueimp-gallery/css/blueimp-gallery.css">
+  <link rel="stylesheet" href="css/demo.css">
+</head>
+
+<body>
+  <h1> AngularJS Blueimp Gallery Demo</h1>
+
+  <section class="gallery" ng-controller="UiGalleryCtrl">
+    <ui-gallery list="list" ></ui-gallery>
+  </section>
+
+  <footer>
+    <ul>
+      <li><a href="https://github.com/alaminopu/ng-blueimp-gallery">Download</a></li>
+      <li> &copy; Md. Al-Amin </li>
+    </ul>
+  </footer>
+
+  <script src="../node_modules/jquery/dist/jquery.js"></script>
+  <script src="../node_modules/angular/angular.js"></script>
+  <script src="../node_modules/blueimp-gallery/js/blueimp-gallery.js"></script>
+  <script src="js/demo-ctrl.js"></script>
+  <script src="../ng-blueimp-gallery.js"></script>
+</body>
+</html>

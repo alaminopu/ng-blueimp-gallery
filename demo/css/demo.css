@@ -1,0 +1,26 @@
+body{
+    background-color: #EEEEEE;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.gallery{
+
+}
+
+ul{
+    overflow: hidden;
+    margin: 100px 0;
+    padding: 0;
+}
+
+ul li{
+    display: inline;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    margin: 10px;
+    cursor: pointer;
+}
