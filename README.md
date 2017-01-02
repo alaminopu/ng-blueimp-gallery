@@ -6,8 +6,8 @@ Angular Directive for Blueimp Gallery
 
 
 # Dependencies
-1. ![AngularJS](https://github.com/angular/angular.js)
-2. ![blueimp-gallery](https://github.com/blueimp/Gallery)
+1. [AngularJS](https://github.com/angular/angular.js)
+2. [blueimp-gallery](https://github.com/blueimp/Gallery)
 
 > Make sure you load all dependencies before loading **ng-blueimp-gallery** files
 
