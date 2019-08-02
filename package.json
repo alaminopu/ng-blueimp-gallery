@@ -6,7 +6,7 @@
   "dependencies": {
     "angular": "^1.5.8",
     "blueimp-gallery": "^2.22.0",
-    "jquery": "^2.2.1"
+    "jquery": ">=3.4.0"
   },
   "devDependencies": {
     "del": "~1.2.0",
